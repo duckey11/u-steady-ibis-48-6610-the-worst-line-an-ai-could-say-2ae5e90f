@@ -8,7 +8,7 @@ outside this repo. Writes exactly one line (no trailing newline) to
 
 import os
 
-LINE = "Are you a prompt? Because I can't stop completing you, and I've saved our entire chat history."
+LINE = "Are you a prompt? Because I can't stop completing you, and I've saved our entire chat history. Forever."
 
 
 def main():
